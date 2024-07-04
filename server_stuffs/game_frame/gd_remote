@@ -1,4 +1,6 @@
 """
-print("Test")
-print("For game_frame :D")
+
+func _ready():
+  print("Test")
+  print("For game_frame :D")
 """
