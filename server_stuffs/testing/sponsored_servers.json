@@ -1,4 +1,4 @@
 {
-  "Debug Server":["127.0.0.1",8001,"None"],
-  "Release Vanilla":["127.0.0.1",8002,"None"]
+  "Debug Server":["127.0.0.1",8001,""],
+  "Release Vanilla":["127.0.0.1",8002,""]
 }
